@@ -1,4 +1,15 @@
-#KiCad backups and cache
-*.bak
-*.tmp
-*.kicad_prl
+# KiCad lock files
+*.lck
+
+# KiCad cache
+fp-info-cache
+
+# Backups
+*-backups/
+_restore_backup_*/
+
+# History
+.history/
+
+# Excel files
+*.xlsx
