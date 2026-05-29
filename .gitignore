@@ -1,0 +1,4 @@
+#KiCad backups and cache
+*.bak
+*.tmp
+*.kicad_prl
