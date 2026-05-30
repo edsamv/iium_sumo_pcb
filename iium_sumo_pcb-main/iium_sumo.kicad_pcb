@@ -6293,7 +6293,7 @@
 		(uuid "5caac24f-b6db-4f90-8098-51a72c1a792d")
 		(at 187.475 108.1 180)
 		(property "Reference" "J16"
-			(at -6.025 -2.9 270)
+			(at 4.075 -5.075 0)
 			(layer "F.SilkS")
 			(uuid "ca4df0e9-5f1b-4db8-8015-3ff70237b09c")
 			(effects
@@ -16217,58 +16217,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "GND"
-		(at 183 114 0)
-		(layer "F.SilkS")
-		(uuid "02227d58-7b53-4f9a-a0a6-fd5962c5a7dd")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "GND"
-		(at 188 99.5 0)
-		(layer "F.SilkS")
-		(uuid "429a2cc3-5fb1-45a3-8f78-9595401e863b")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "VIN"
-		(at 188.5 114 0)
-		(layer "F.SilkS")
-		(uuid "7382d852-60c9-4495-959c-a9fd71db8882")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "VIN"
-		(at 193 99.5 0)
-		(layer "F.SilkS")
-		(uuid "363f1ced-c00e-4197-898d-31fe3292b7a6")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
 	(segment
 		(start 159.58 68.61)
 		(end 169.385 68.61)
@@ -18733,7 +18681,7 @@
 		)
 		(polygon
 			(pts
-				(xy 95.244021 59.105209) (xy 198.355042 59.08266) (xy 198.157327 123.689238) (xy 95.475 123.375)
+				(xy 95.244021 59.105209) (xy 198.355042 59.08266) (xy 198.369021 123.005209) (xy 95.475 123.375)
 			)
 		)
 		(filled_polygon

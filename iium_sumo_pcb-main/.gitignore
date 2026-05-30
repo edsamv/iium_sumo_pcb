@@ -12,4 +12,4 @@ _restore_backup_*/
 .history/
 
 # Excel files
-*.xlsxfreerouting.dsn
+*.xlsx
